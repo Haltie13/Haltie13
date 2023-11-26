@@ -1,4 +1,5 @@
 # Cześć 👋
+[Moja strona](https://haltie13.github.io)
 
 I'm Kuba, a Computer Science student at AGH University of Science and Technology. Here's a bit about me:
 
