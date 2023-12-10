@@ -8,3 +8,6 @@ I'm Kuba, a Computer Science student at AGH University of Science and Technology
 - 🌐 I speak Polish (native), English, and Norwegian.
 - 🎶 I'm a fan of Taylor Swift's music 
 - 📖 I also appreciate the work of Wisława Szymborska, the Nobel Prize-winning Polish poet.
+
+## Narzędzia Informatyczne
+- [Fork repozytorium](https://github.com/Haltie13/DeepCache.git)
