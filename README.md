@@ -11,3 +11,4 @@ I'm Kuba, a Computer Science student at AGH University of Science and Technology
 
 ## Narzędzia Informatyczne
 - [Fork repozytorium](https://github.com/Haltie13/DeepCache.git)
+- [Link do atrykułu](https://paperswithcode.com/paper/deepcache-accelerating-diffusion-models-for)
