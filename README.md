@@ -1,12 +1,11 @@
-# Cześć 👋
+# Hi 👋
 
-I'm Kuba, a Computer Science student at AGH University of Science and Technology. Here's a bit about me:
+I'm Kuba, a Computer Science and Intelligent Systems student at AGH University of Cracow. Here's a bit about me:
 
 ## About Me
-- 📚 I am currently pursuing a degree in Computer Science at AGH.
 - 🌐 I speak Polish (native), English, and Norwegian.
 - 📖 I also appreciate the work of Wisława Szymborska, the Nobel Prize-winning Polish poet.
+- ⚛️ I tutor Physics
 
-## Narzędzia Informatyczne
-- [Fork repozytorium](https://github.com/Haltie13/DeepCache.git)
-- [Link do atrykułu](https://paperswithcode.com/paper/deepcache-accelerating-diffusion-models-for)
+## Projects
+- I'm a part of [AGH Code Industry](https://github.com/Haltie13/DeepCache.git) Scientific Club, a part of Student Trainer team.
